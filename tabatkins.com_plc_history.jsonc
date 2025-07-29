@@ -1,0 +1,63 @@
+{
+  "alsoKnownAs": [
+    "at://tab.bsky.social"
+  ],
+  "prev": null,
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://bsky.social",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "tYtDFJVOZZBtLp9p6QdVZAQU2F6JAoqfm2-N_4uKSnh7dUDr_5CFo2zEoGJBRSWOm3eqjN9FkVEo-ETgI7sHJw",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shXjHeiBuRCKmM36cuYnm7YEMzhGnCmCyW92sRJ9pribSF"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://tabatkins.com"
+  ],
+  "prev": "bafyreibwac6cc5s2xtnvp2yrw4uxrgnvhpdsx6xewepjodjfmv3bbqlh44",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://bsky.social",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "ZcLIriGu_FjJJ9N0y1MeOxOYuPKF2uEpELGW2rGxqBMJmdYWHrRYVk685D1aZ5fGfsRoUtSPvzj6gr5GQRhaHw",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shXjHeiBuRCKmM36cuYnm7YEMzhGnCmCyW92sRJ9pribSF"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://tabatkins.com"
+  ],
+  "prev": "bafyreifh6jhuqqspwoeqajmspozuremk6uu7gqkj6hszxyvs2q6kh6nsqq",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://enoki.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "CvM-MSbhoCFpO5AgaxtL6BAhjgLIeD20ZWY0vvW-S7ZvHT16kGbp35Ob4VbE4GiuTlPfHaYdKWZJrXEeYv9WZA",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shmA4a8vwogygKVdS9huQThiaYauGaDhVMa1xGmRvr4xmB"
+  }
+}
